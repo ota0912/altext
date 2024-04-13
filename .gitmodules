@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/ota0912/altext-gen-backend.git
+[submodule "Extension"]
+	path = Extension
+	url = https://github.com/ota0912/altext-gen-ext.git
